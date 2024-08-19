@@ -1,2 +1,2 @@
-- 👋 Hello， Im just a student interested in coding
+- 👋 Hello， Im just a student interested in programming
 - 😄 Continue studying
